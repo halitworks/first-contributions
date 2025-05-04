@@ -1,4 +1,5 @@
  # Contributors
+ - [Halit Bulut](https://github.com/halitmb)
  - [Shravani Gaikwad](https://github.com/shrav84)
  - [Katy Frances A](https://github.com/KatyFrancesA)
  - [Nabina Mallik](https://thenabinamallik.vercel.app)
